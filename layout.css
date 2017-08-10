@@ -26,7 +26,7 @@ ul li {
     text-align:center;
     margin-top: .5%;
     margin-left: -5%;
-    font-size:.95em;
+    font-size:.90em;
     color:#FF4F1E;
     font-family: 'Heebo', sans-serif;
     font-weight:200;
@@ -43,7 +43,7 @@ a.mennav:link
 
 .title {
     
-    font-size:1.5em;
+    font-size:1.4em;
     color:#FF4F1E;
     font-family:Julius Sans One, sans-serif;
     font-weight:200;
@@ -57,6 +57,7 @@ a.mennav:link
 	width:85px;
 	float: left;
 	padding-top: .5%;
+	padding-bottom: .3%;
 }
 
 a:hover { 
@@ -105,7 +106,7 @@ width:100%;
 
 .Subtitle{
 	color: #FF4F1E;
-	font-size: 2em;
+	font-size: 1.8em;
 	text-transform: uppercase;
 	text-align: center;
 }
@@ -118,6 +119,14 @@ width:100%;
    	background-color: #D3D3D3;
    	font-color:#FFF;
    }
+
+ .footertext{
+ 	float: right;
+ 	color: #FF4F1E ;
+ 	font-size: .7em;
+ 	padding-top: 5%;
+ 	padding-right: 1%;
+ }
 
 
 @media screen and (max-width:530px) 
