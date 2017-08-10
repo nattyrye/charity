@@ -26,7 +26,7 @@ ul li {
     text-align:center;
     margin-top: .5%;
     margin-left: -5%;
-    font-size:.90em;
+    font-size:1em;
     color:#FF4F1E;
     font-family: 'Heebo', sans-serif;
     font-weight:200;
@@ -43,7 +43,7 @@ a.mennav:link
 
 .title {
     
-    font-size:1.4em;
+    font-size:1.6em;
     color:#FF4F1E;
     font-family:Julius Sans One, sans-serif;
     font-weight:200;
@@ -74,14 +74,6 @@ a:hover {
 
 
 .introcontainer {
-background: rgba(255,255,255,1);
-background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 100%);
-background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(237,237,237,1)));
-background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 100%);
-background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 100%);
-background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 100%);
-background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(237,237,237,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
 
 width:100%;
 }
@@ -115,6 +107,7 @@ width:100%;
 	max-width: 400px;
 	display: block;
 	margin: auto;
+	padding-bottom: 1%;
 
 }
 
