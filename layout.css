@@ -56,6 +56,7 @@ a.mennav:link
 .logo {
 	width:85px;
 	float: left;
+	padding-top: .5%;
 }
 
 a:hover { 
