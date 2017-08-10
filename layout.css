@@ -67,8 +67,6 @@ a:hover {
 .banner{
 	width:100%;
 
-
-
 }
 
 
@@ -111,6 +109,14 @@ width:100%;
 	text-align: center;
 }
 
+.sponsorlogos{
+
+	
+	max-width: 400px;
+	display: block;
+	margin: auto;
+
+}
 
 .footer {
 	
@@ -127,6 +133,7 @@ width:100%;
  	padding-top: 5%;
  	padding-right: 1%;
  }
+
 
 
 @media screen and (max-width:530px) 
