@@ -43,7 +43,7 @@ a.mennav:link
 
 .title {
     
-    font-size:1.6em;
+    font-size:1.8em;
     color:#FF4F1E;
     font-family:Julius Sans One, sans-serif;
     font-weight:200;
@@ -64,13 +64,18 @@ a:hover {
     background-color: #B4DAA7;
 }
 
-.banner{
-	width:100%;
-
+.amesinvites{
+	font-size: 2em;
+	text-align: center;
+	color: #231F20;
 }
 
 
-
+.paragraph{
+	padding-left: 10%;
+	padding-right: 10%;
+	font-size: 1em;
+}
 
 
 .introcontainer {
