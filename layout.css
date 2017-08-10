@@ -28,7 +28,7 @@ ul li {
     margin-left: -5%;
     font-size:.95em;
     color:#FF4F1E;
-    font-family:Lato,sans-serif;
+    font-family: 'Wire One', sans-serif;
     font-weight:200;
     text-transform:uppercase;
     text-decoration:none; 
@@ -45,7 +45,7 @@ a.mennav:link
     
     font-size:1.5em;
     color:#FF4F1E;
-    font-family:Julius Sans One,sans-serif;
+    font-family:Julius Sans One, sans-serif;
     font-weight:200;
     text-transform:uppercase;
     float: left;
