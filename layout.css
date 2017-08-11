@@ -40,7 +40,6 @@ a.mennav:link
 }  
 
 
-
 .title {
     
     font-size:1.8em;
@@ -63,6 +62,7 @@ a.mennav:link
 a:hover { 
     background-color: #B4DAA7;
     color:#FFF;
+   
 }
 
 .amesinvites{
@@ -149,10 +149,16 @@ width:100%;
     z-index: 99;
 }
 
-
-
-
-@media screen and (max-width:530px) 
-
-
+.scrollup {
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    display: none;
+    text-indent: -9999px;
+    background: url('scroll.png') no-repeat, center;
+    border-radius: 25px;
+    background-color: #B4DAA7;
+}
 
