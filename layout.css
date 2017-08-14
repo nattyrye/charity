@@ -78,7 +78,7 @@ a:hover {
 .paragraph{
 	padding-left: 10%;
 	padding-right: 10%;
-	font-size: 1em;
+	font-size: 1.3em;
 
 }
 
@@ -88,6 +88,9 @@ a:hover {
 width:100%;
 }
 
+a{
+color: #FF4F1E;
+}
 
 
 .fancyhr {
