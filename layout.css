@@ -60,7 +60,11 @@ a.mennav:link
 	padding-bottom: .3%;
 }
 
-
+a:hover { 
+    background-color: #B4DAA7;
+    color:#FFF;
+   
+}
 
 .amesinvites{
 	font-size: 2em;
