@@ -70,6 +70,8 @@ a:hover {
 	font-size: 2em;
 	text-align: center;
 	color: #231F20;
+	font-style: italic;
+	font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -77,6 +79,7 @@ a:hover {
 	padding-left: 10%;
 	padding-right: 10%;
 	font-size: 1em;
+
 }
 
 
@@ -116,6 +119,12 @@ width:100%;
 	margin: auto;
 	padding-bottom: 1%;
 
+}
+
+.calicon{
+	display: inline;
+	margin: auto;
+	size: 100px;
 }
 
 .footer {
@@ -163,3 +172,9 @@ width:100%;
     background-color: #B4DAA7;
 }
 
+.center{
+	margin: auto;
+	text-align: center;
+	font-size: 1.5em;
+	font-family:Julius Sans One, sans-serif;
+}
