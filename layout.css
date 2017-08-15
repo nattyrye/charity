@@ -109,7 +109,7 @@ color: #FF4F1E;
 
 .Subtitle{
 	color: #FF4F1E;
-	font-size: 1.8em;
+	font-size: 3em;
 	text-transform: uppercase;
 	text-align: center;
 }
@@ -179,5 +179,20 @@ color: #FF4F1E;
 	margin: auto;
 	text-align: center;
 	font-size: 1.5em;
+	font-family:Julius Sans One, sans-serif;
+}
+
+.headerimg{
+	max-height: 300px;
+	display: block;
+	margin: auto;
+	padding-bottom: 1%;
+}
+.test{
+	max-width: 800px;
+}
+
+#Sponsors{
+	font-size: 1.4em;
 	font-family:Julius Sans One, sans-serif;
 }
