@@ -319,7 +319,7 @@ to {
 
 
 
-@media screen and (max-width:929px) and (min-width:375px) {
+@media screen and (max-width:929px)  {
 .mennav{
 	display: none;
 }
