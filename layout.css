@@ -337,9 +337,11 @@ to {
 }
 
 body{
-	font-size: 50%;
+	font-size: 65%;
 	}
-
+.amesinvites{
+	font-size:3em;
+}
 .title{
 	
 	
@@ -357,7 +359,7 @@ body{
 	padding-bottom: 1%;
 }
 .scrollup{
-	    width: 50px;
+	width: 50px;
     height: 30px;
     position: fixed;
     bottom: 50px;
@@ -387,6 +389,24 @@ body{
 	padding-left: 5%;
 
 }
+
+.calicon{
+	display: block;
+	margin: auto;
+	size: 100px;
 }
+.center{
+	font-size: 3em;
+}
+.footer{
+	background-color: #fff;
+	height: 10px;
+}
+.footertext{
+ 	float: right;
+ 	color: #FF4F1E ;
+ 	font-size: .7em;
+ 
+ }
 }
 
