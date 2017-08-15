@@ -129,8 +129,8 @@ color: #FF4F1E;
 
 .sponsorlogos{
 
-	max-height: 300px;
-	max-width: 400px;
+	max-height: auto;
+	max-width: auto;
 	display: block;
 	margin: auto;
 	padding-bottom: 1%;
@@ -342,22 +342,51 @@ body{
 
 .title{
 	
-	font-size: 3em;
+	
 	margin: auto;
 }
 .logo{
 	display: none;
 }
-.footer{
-	height: 50px;
-}
-#myBtn{
-	display: none;
-}
 
+.sponsorlogos{
+	max-height: 50%;
+	max-width: 50%;
+	display: block;
+	margin: auto;
+	padding-bottom: 1%;
+}
 .scrollup{
-	display: none;
+	    width: 50px;
+    height: 30px;
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    display: none;
+    text-indent: -9999px;
+    background: url('') no-repeat, center;
+    border-radius: 25px;
+    background-color: ;
 }
 
+.footer{
+	height: 80px;
+}
+
+.title{
+	font-size: 4em;
+	
+
+	padding-bottom:0;
+}
+
+.navbar{
+	border: none;
+	padding-top: 5%;
+	padding-bottom: 1%;
+	padding-left: 5%;
+
+}
+}
 }
 
