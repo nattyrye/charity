@@ -29,7 +29,7 @@ ul li {
     overflow:hidden;
 /* I don't understand why I need overflow */
     background:#FFF;
-    border-bottom:.8px solid #FF4F1E;
+    border-bottom:.6px solid #FF4F1E;
   
 }
 
@@ -55,7 +55,7 @@ a.mennav:link
 
 .title {
     
-    font-size:1.8em;
+    font-size:2em;
     color:#FF4F1E;
     font-family:Julius Sans One, sans-serif;
     font-weight:200;
@@ -241,6 +241,9 @@ a:hover.visitour {
     transition-timing-function:ease-out;
 }
 
+
+}
+
 @keyframes fadein {
 from {
     opacity:0
@@ -314,27 +317,14 @@ to {
 	height: 400px;
 }
 
-@media screen and (max-width:1132px) {
-	.amesinvites{
-		font-size: 1.7em;
-	}
 
-}
 
-@media screen and (max-width:940px) {
-	.amesinvites{
-		font-size: 1.5em;
-	}
+@media screen and (max-width:929px) and (min-width:375px) {
 .mennav{
 	display: none;
 }
-	
-}
 
-@media screen and (max-width:375px) {
-.mennav{
-	display: none;
-}
+
 
 body{
 	font-size: 65%;
