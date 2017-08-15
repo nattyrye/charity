@@ -362,13 +362,13 @@ body{
 	width: 50px;
     height: 30px;
     position: fixed;
-    bottom: 50px;
-    right: 20px;
+    bottom: 20px;
+    right: 5px;
     display: none;
     text-indent: -9999px;
-    background: url('') no-repeat, center;
+    background: url('scroll.png') no-repeat, center;
     border-radius: 25px;
-    background-color: ;
+    background-color: #D3D3D3;
 }
 
 .footer{
@@ -377,8 +377,6 @@ body{
 
 .title{
 	font-size: 4em;
-	
-
 	padding-bottom:0;
 }
 
@@ -407,6 +405,14 @@ body{
  	color: #FF4F1E ;
  	font-size: .7em;
  
+ }
+
+ .paragraph{
+ 	font-size: 2em;
+ }
+
+ .visitour{
+ 	font-size: 3em;
  }
 }
 
