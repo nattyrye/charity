@@ -316,15 +316,48 @@ to {
 
 @media screen and (max-width:1132px) {
 	.amesinvites{
-		font-size: 1.3em;
+		font-size: 1.7em;
 	}
 
 }
 
-@media screen and (max-width:992px) {
+@media screen and (max-width:940px) {
 	.amesinvites{
-		font-size: 1em;
+		font-size: 1.5em;
 	}
-
+.mennav{
+	display: none;
+}
 	
 }
+
+@media screen and (max-width:375px) {
+.mennav{
+	display: none;
+}
+
+body{
+	font-size: 50%;
+	}
+
+.title{
+	
+	font-size: 3em;
+	margin: auto;
+}
+.logo{
+	display: none;
+}
+.footer{
+	height: 50px;
+}
+#myBtn{
+	display: none;
+}
+
+.scrollup{
+	display: none;
+}
+
+}
+
