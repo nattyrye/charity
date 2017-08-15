@@ -17,7 +17,7 @@ ul li {
     overflow:hidden;
 /* I don't understand why I need overflow */
     background:#FFF;
-    border-bottom:1px solid #FF4F1E;
+    border-bottom:.8px solid #FF4F1E;
   
 }
 
@@ -193,6 +193,10 @@ color: #FF4F1E;
 }
 
 #Sponsors{
-	font-size: 1.4em;
-	font-family:Julius Sans One, sans-serif;
+	font-size: 1.2em;
+	font-family:Open Sans, sans-serif;
+}
+
+a:visited {
+    text-decoration: none;
 }
