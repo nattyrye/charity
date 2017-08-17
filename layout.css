@@ -15,7 +15,7 @@ body {
 ul li {
     list-style-type:none;
     display:inline;
-    padding: 1%;
+    padding: .6%;
     float: right;
 
 }
@@ -38,7 +38,7 @@ ul li {
     text-align:center;
     margin-top: .5%;
     margin-left: -5%;
-    font-size:1em;
+    font-size:.95em;
     color:#FF4F1E;
     font-family: 'Heebo', sans-serif;
     font-weight:200;
