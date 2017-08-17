@@ -224,6 +224,26 @@ a:visited {
 
 }
 
+
+.bear{
+    display: block;
+    margin: auto;
+ 
+}
+
+.toytitle{
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-size: .9em;
+    font-family: Open Sans, sans-serif;
+    text-transform: uppercase
+}
+
+#ToyDrive{
+    font-size: 1.2em;
+    font-family: Open Sans, sans-serif;
+}
 a:hover.visitour {
     color: #FF4F1E;
     text-decoration: none;
