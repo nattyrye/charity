@@ -238,6 +238,13 @@ a:visited {
  
 }
 
+.donate{
+    display: block;
+    margin: auto;
+    width: 200px;
+ 
+}
+
 .toytitle{
     margin: auto;
     display: block;
