@@ -100,6 +100,14 @@ a:hover.mennav {
 
 }
 
+.paragraphi{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1.3em;
+    font-style: italic;
+
+}
+
 
 .introcontainer {
 display: block;
@@ -275,8 +283,27 @@ a:hover.visitour {
     -webkit-transition-timing-function:ease-out;
     transition-timing-function:ease-out;
 }
+a:hover.links{
+    color: #FF4F1E;
+    text-decoration: none;
 
+}
 
+a:hover.visitour {
+    color: #FF4F1E;
+    text-decoration: none;
+ -webkit-transform:translateY(-8px);
+    transform:translateY(-8px);
+    box-shadow:0 0 1px rgba(0,0,0,0);
+    -webkit-backface-visibility:hidden;
+    backface-visibility:hidden;
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-transition-duration:.3s;
+    transition-duration:.3s;
+    -webkit-transition-property:transform;
+    transition-property:transform;
+    -webkit-transition-timing-function:ease-out;
+    transition-timing-function:ease-out;
 }
 
 @keyframes fadein {
