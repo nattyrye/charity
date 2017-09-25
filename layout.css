@@ -11,6 +11,7 @@ body {
 /* Opera < 12.1 */
     animation:fadein 1s;
     background: #fff;
+
 }
 
 ul li {
@@ -33,6 +34,7 @@ body{
 /* I don't understand why I need overflow */
     background:#FFF;
     border-bottom:.6px solid #FF4F1E;
+
 }
 
 .mennav {
