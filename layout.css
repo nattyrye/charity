@@ -467,7 +467,7 @@ to {
   ul li {
       list-style-type:none;
       display: inline;
-      padding: 1px;
+      padding: 5px;
       padding-top: 3%;
       float: left;
       font-size: 1.5em;
