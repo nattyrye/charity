@@ -466,11 +466,12 @@ to {
 @media screen and (max-width:929px)  {
   ul li {
       list-style-type:none;
-      display:inline;
-      padding: .9%;
-      padding-top: 2%;
-      float: right;
-      position: relative;
+      display: inline;
+      padding: 1px;
+      padding-top: 3%;
+      float: left;
+      font-size: 1.5em;
+
   }
 
 .carousel-indicators{
