@@ -464,7 +464,13 @@ to {
 
 
 @media screen and (max-width:929px)  {
-
+  ul li {
+      list-style-type:none;
+      display:inline;
+      padding: .7%;
+      float: right;
+      position: relative;
+  }
 
 .carousel-indicators{
 	display: none;
