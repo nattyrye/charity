@@ -97,7 +97,10 @@ a:hover.mennav {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.golficon{
 
+  max-width: 50px;
+}
 
 .paragraph{
 	padding-left: 10%;
@@ -110,11 +113,24 @@ a:hover.mennav {
 .paragraphjoin{
 	padding-left: 10%;
 	padding-right: 10%;
-	font-size: 1.9em;
+	font-size: 1.7em;
   color: grey;
-
 }
 
+.paragraphjoin2{
+	padding-left: 10%;
+	padding-right: 10%;
+	font-size: 1.8em;
+font-family: 'Open Sans', sans-serif;
+  }
+
+  .paragraphjoin3{
+  	padding-left: 10%;
+  	padding-right: 10%;
+  	font-size: 1.8em;
+    color: grey;
+font-family: 'Open Sans', sans-serif;
+    }
 
 
 .paragraphi{
