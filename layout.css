@@ -665,4 +665,10 @@ body{
  .visitour{
  	font-size: 3em;
  }
-}
+
+ .paragraphjoin{
+ 	padding-left: 10%;
+ 	padding-right: 10%;
+ 	font-size: 3em;
+   color: grey;
+ }
