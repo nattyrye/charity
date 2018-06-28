@@ -66,18 +66,12 @@ a.mennav:link
     font-weight:200;
     text-transform:uppercase;
     float: left;
-    padding-bottom: 1em;
-    padding-left: 1em;
-}
-
-
-.logo {
-	width:125px;
-	float: left;
-	padding-top: .5%;
-	padding-bottom: 2%;
+    
     padding-left: 2%;
 }
+
+
+
 
 a:hover.mennav {
     background-color: #B4DAA7;
